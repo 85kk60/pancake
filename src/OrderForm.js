@@ -41,7 +41,7 @@ function OrderForm() {
             <option value="">選択してください</option>
             <option value="コーヒー">コーヒー</option>
             <option value="オレンジジュース">オレンジジュース</option>
-            <option value="不要">不要</option>
+            <option value="不要">ドリンクは不要</option>
           </select>
         </div>
 
